@@ -17,7 +17,7 @@ Konoha Project will be:
 ### Contact US
 
 1. [gmail](mailto:fourteenyama@gmail.com)
-2. [blog](www.14yama.wordpress.com)
+2. [blog](https://14yama.wordpress.com/)
 
 
 
