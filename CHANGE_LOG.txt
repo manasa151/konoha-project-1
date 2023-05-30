@@ -3,7 +3,7 @@ CHANGE LOG# 0004 (JS + Blender)
 ########################################################################################
 Online:
 User Login
-Tables, Data Visualization, Charts & Reports
+Tables (JS React), Data Visualization, Charts & Reports
 CLI Scripts with JavaScript and Node
 
 Local:
