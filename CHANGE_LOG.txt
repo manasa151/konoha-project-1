@@ -1,10 +1,37 @@
+########################################################################################
+CHANGE LOG# 0004 (JS + Blender)
+########################################################################################
+Online:
+User Login
+Tables, Data Visualization, Charts & Reports
+CLI Scripts with JavaScript and Node
 
-CHANGE LOG# 0003
-- Edit tank from load cases using Custom Operators
-- Delete tank from load cases using Custom Operators
+Local:
+Simulations:import cloud table properties to blender object properties
+Export simulations
 
-CHANGE LOG# 0002
-Edit tank using Custom Operators
+----------------------------------------------------------------------------------------
 
-CHANGE LOG# 0001
-Create tank using Custom Operators
+########################################################################################
+CHANGE LOG# 0003 (Blender:Create & Edit tables, qick edit tables & Display graphs)
+########################################################################################
+Edit tank from load cases using Blender Operators
+Delete tank from load cases using Blender Operators
+
+----------------------------------------------------------------------------------------
+
+
+########################################################################################
+CHANGE LOG# 0002 (Blender:Create & Edit tables, qick edit tables & Display graphs)
+########################################################################################
+Edit tank using Blender Operators
+
+----------------------------------------------------------------------------------------
+
+
+########################################################################################
+CHANGE LOG# 0001 (Blender:Create Operators)
+########################################################################################
+Create tank using Blender Operators
+
+----------------------------------------------------------------------------------------
