@@ -7,7 +7,9 @@ Tables (JS React), Data Visualization, Charts & Reports
 CLI Scripts with JavaScript and Node
 
 Local:
-Simulations:import cloud table properties to blender object properties
+Stability & Hydrostatic Simulations
+Analysis:Load Cases, Upright Hyrostatics
+Import cloud table properties to blender object properties
 Export simulations
 
 ----------------------------------------------------------------------------------------
